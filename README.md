@@ -30,7 +30,7 @@ Statistics Engineering student by degree. AI builder by passion.
 | 🩻 [xray-analyzer](https://github.com/saharchiha/xray-analyzer) | AI radiology report generator from X-ray images | Python · LLaVA-7B · Gradio · Ollama |
 | 🤖 [cnam-chatbot](https://github.com/saharchiha/cnam-chatbot) | Multilingual RAG chatbot (FR/AR/EN) | Python · LangChain · NLP |
 | 📈 [forsure-analytics](https://github.com/saharchiha/forsure-analytics) | Insurance pricing with GLM + neural networks | R Shiny · ML/DL |
-| 📊 [StatMed](https://github.com/saharchiha/StatMed) | Insurance pricing with GLM + neural networks & SHAP | R Shiny · ML/DL |
+| 📊 [StatMed](https://github.com/saharchiha/StatMed) | Interactive R Shiny app for statistical analysis | R Shiny · ggplot2 · shinydashboard |
 
 
 ---

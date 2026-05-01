@@ -41,4 +41,4 @@ Statistics Engineering student by degree. AI builder by passion.
 [![Email](https://img.shields.io/badge/Email-saharchiha37@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saharchiha37@gmail.com)
 ---
 
-*📍 Tunisia · 🎓 ESSAI 
+📍 Tunisia · 🎓 ESSAI 

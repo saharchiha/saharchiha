@@ -29,7 +29,7 @@ Statistics Engineering student by degree. AI builder by passion.
 | 📝 [exam-generation](https://github.com/saharchiha/exam-generation) | Adaptive exam generator with GPT-4o auto-reflection & RAG | Python · LangChain · Weaviate · ReactJS |
 | 🩻 [xray-analyzer](https://github.com/saharchiha/xray-analyzer) | AI radiology report generator from X-ray images | Python · LLaVA-7B · Gradio · Ollama |
 | 🤖 [cnam-chatbot](https://github.com/saharchiha/cnam-chatbot) | Multilingual RAG chatbot (FR/AR/EN) | Python · LangChain · NLP |
-| 📈 [forsure-analytics](https://github.com/saharchiha/forsure-analytics) | Default risk prediction model — 95% accuracy | Python · R · Statistical Modeling |
+| 📈 [forsure-analytics](https://github.com/saharchiha/forsure-analytics) | Insurance pricing with GLM + neural networks | R Shiny · ML/DL |
 | 📊 [StatMed](https://github.com/saharchiha/StatMed) | Insurance pricing with GLM + neural networks & SHAP | R Shiny · ML/DL |
 
 
